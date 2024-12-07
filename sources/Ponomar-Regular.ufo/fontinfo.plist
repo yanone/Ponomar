@@ -27,7 +27,7 @@
     <key>openTypeHeadCreated</key>
     <string>2007/08/13 19:00:00</string>
     <key>openTypeHheaAscender</key>
-    <integer>955</integer>
+    <integer>1150</integer>
     <key>openTypeHheaDescender</key>
     <integer>-460</integer>
     <key>openTypeHheaLineGap</key>
@@ -37,7 +37,7 @@
     <key>openTypeNameLicenseURL</key>
     <string>https://scripts.sil.org/OFL</string>
     <key>openTypeNameVersion</key>
-    <string>1.3</string>
+    <string>Version 1.3</string>
     <key>openTypeNameSampleText</key>
     <string>Хрⷭ҇то́съ воскре́се и҆з̾ ме́ртвыхъ, сме́ртїю сме́рть попра́въ, и҆ сꙋ́щымъ во гробѣ́хъ живо́тъ дарова́въ.</string>
     <key>openTypeOS2Panose</key>
@@ -63,6 +63,10 @@
     <array>
       <integer>0</integer>
       <integer>0</integer>
+    </array>
+    <key>openTypeOS2Selection</key>
+    <array>
+      <integer>7</integer>
     </array>
     <key>openTypeOS2Type</key>
     <array/>
