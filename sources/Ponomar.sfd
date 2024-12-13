@@ -4,7 +4,7 @@ FullName: Ponomar
 FamilyName: Ponomar
 Weight: Regular
 Copyright: Copyright 2013-2024 The Ponomar Project Authors (https://github.com/slavonic/ponomar)
-Version: 1.3001
+Version: 1.301
 ItalicAngle: 0
 UnderlinePosition: -39
 UnderlineWidth: 7
@@ -38,7 +38,7 @@ OS2WinAscent: 350
 OS2WinAOffset: 1
 OS2WinDescent: 0
 OS2WinDOffset: 1
-HheadAscent: -125
+HheadAscent: 70
 HheadAOffset: 1
 HheadDescent: 0
 HheadDOffset: 1

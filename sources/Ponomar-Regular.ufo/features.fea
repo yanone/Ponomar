@@ -2786,10 +2786,14 @@ lookup markChurchSlavonicDiacritics {
   markClass [\uni0304 ] <anchor -217 538> @Diacritic;
   markClass [\uni0302 ] <anchor -195 591> @Diacritic;
   markClass [\uni0303 ] <anchor -214 543> @Diacritic;
-  pos base [\uni0404 \uni0405 \uni0408 \uni0415 \uniEF2F ] <anchor 327 829> mark @HalfMark
+  pos base [\uni0404 ] <anchor 327 829> mark @HalfMark
 	<anchor 670 826> mark @DoubleTitlo
 	<anchor 494 828> mark @Yerok
 	<anchor 332 829> mark @Diacritic;
+  pos base [\uni0405 \uniEF2F ] <anchor 327 829> mark @HalfMark
+	<anchor 670 828> mark @DoubleTitlo
+	<anchor 494 828> mark @Yerok
+	<anchor 308 828> mark @Diacritic;
   pos base [\uni0406 ] <anchor 160 830> mark @HalfMark
 	<anchor 310 829> mark @DoubleTitlo
 	<anchor 150 830> mark @Yerok
@@ -2798,14 +2802,26 @@ lookup markChurchSlavonicDiacritics {
 	<anchor 310 1018> mark @DoubleTitlo
 	<anchor 113 985> mark @Yerok
 	<anchor 113 985> mark @Diacritic;
+  pos base [\uni0408 ] <anchor 327 829> mark @HalfMark
+	<anchor 477 826> mark @DoubleTitlo
+	<anchor 300 828> mark @Yerok
+	<anchor 323 829> mark @Diacritic;
   pos base [\uni040E ] <anchor 386 1090> mark @Diacritic
 	<anchor 575 830> mark @Yerok
 	<anchor 672 832> mark @DoubleTitlo
 	<anchor 374 828> mark @HalfMark;
-  pos base [\uni0410 \uni0411 \uni0412 ] <anchor 327 830> mark @HalfMark
+  pos base [\uni0410 ] <anchor 327 830> mark @HalfMark
 	<anchor 568 830> mark @DoubleTitlo
 	<anchor 400 828> mark @Yerok
 	<anchor 426 830> mark @Diacritic;
+  pos base [\uni0411 ] <anchor 327 830> mark @HalfMark
+	<anchor 628 830> mark @DoubleTitlo
+	<anchor 400 828> mark @Yerok
+	<anchor 314 830> mark @Diacritic;
+  pos base [\uni0412 ] <anchor 327 830> mark @HalfMark
+	<anchor 610 830> mark @DoubleTitlo
+	<anchor 400 828> mark @Yerok
+	<anchor 336 830> mark @Diacritic;
   pos base [\uni0413 ] <anchor 238 830> mark @HalfMark
 	<anchor 464 829> mark @DoubleTitlo
 	<anchor 325 830> mark @Yerok
@@ -2814,7 +2830,11 @@ lookup markChurchSlavonicDiacritics {
 	<anchor 652 829> mark @DoubleTitlo
 	<anchor 500 830> mark @Yerok
 	<anchor 484 829> mark @Diacritic;
-  pos base [\uni0416 \uni0428 \uni0429 \uni0464 \uni0472 \uni047C \uniA64C \uniA656 \uniA664 ] <anchor 486 829> mark @HalfMark
+  pos base [\uni0415 ] <anchor 327 829> mark @HalfMark
+	<anchor 670 827> mark @DoubleTitlo
+	<anchor 500 828> mark @Yerok
+	<anchor 334 829> mark @Diacritic;
+  pos base [\uni0416 ] <anchor 486 829> mark @HalfMark
 	<anchor 960 827> mark @DoubleTitlo
 	<anchor 725 828> mark @Yerok
 	<anchor 486 828> mark @Diacritic;
@@ -2830,7 +2850,7 @@ lookup markChurchSlavonicDiacritics {
 	<anchor 670 984> mark @DoubleTitlo
 	<anchor 300 925> mark @Yerok
 	<anchor 344 922> mark @Diacritic;
-  pos base [\uni041A \uni041E \uni051E \uni04E8 ] <anchor 341 830> mark @HalfMark
+  pos base [\uni041A \uni051E ] <anchor 341 830> mark @HalfMark
 	<anchor 684 830> mark @DoubleTitlo
 	<anchor 480 831> mark @Yerok
 	<anchor 341 830> mark @Diacritic;
@@ -2845,6 +2865,10 @@ lookup markChurchSlavonicDiacritics {
   pos base [\uni041D ] <anchor 339 830> mark @HalfMark
 	<anchor 668 830> mark @DoubleTitlo
 	<anchor 475 828> mark @Yerok
+	<anchor 341 830> mark @Diacritic;
+  pos base [\uni041E \uni04E8 ] <anchor 341 830> mark @HalfMark
+	<anchor 588 830> mark @DoubleTitlo
+	<anchor 425 830> mark @Yerok
 	<anchor 341 830> mark @Diacritic;
   pos base [\uni041F ] <anchor 359 830> mark @HalfMark
 	<anchor 690 830> mark @DoubleTitlo
@@ -2882,11 +2906,19 @@ lookup markChurchSlavonicDiacritics {
 	<anchor 668 830> mark @DoubleTitlo
 	<anchor 475 828> mark @Yerok
 	<anchor 326 830> mark @Diacritic;
+  pos base [\uni0428 ] <anchor 486 829> mark @HalfMark
+	<anchor 970 828> mark @DoubleTitlo
+	<anchor 775 828> mark @Yerok
+	<anchor 484 829> mark @Diacritic;
+  pos base [\uni0429 ] <anchor 486 829> mark @HalfMark
+	<anchor 968 831> mark @DoubleTitlo
+	<anchor 775 828> mark @Yerok
+	<anchor 478 830> mark @Diacritic;
   pos base [\uni042A ] <anchor 432 830> mark @HalfMark
 	<anchor 682 830> mark @DoubleTitlo
 	<anchor 490 828> mark @Yerok
 	<anchor 366 830> mark @Diacritic;
-  pos base [\uni042B \uni0460 ] <anchor 486 830> mark @HalfMark
+  pos base [\uni042B ] <anchor 486 830> mark @HalfMark
 	<anchor 870 831> mark @DoubleTitlo
 	<anchor 675 828> mark @Yerok
 	<anchor 439 830> mark @Diacritic;
@@ -2906,10 +2938,22 @@ lookup markChurchSlavonicDiacritics {
 	<anchor 396 536> mark @DoubleTitlo
 	<anchor 225 539> mark @Yerok
 	<anchor 210 539> mark @Diacritic;
-  pos base [\uni0431 \uni0432 \uni0433 \uni0434 \uni0447 \uni044C \uni0465 \uni046F \uni0475 \uni0477 \uniA64B \uni1C81 \uniA64B.short \uniA663 \uniA64B.short2 \uni04750327 \uniA64B.short3 ] <anchor 238 539> mark @HalfMark
+  pos base [\uni0431 ] <anchor 238 539> mark @HalfMark
 	<anchor 456 538> mark @DoubleTitlo
 	<anchor 275 539> mark @Yerok
 	<anchor 241 539> mark @Diacritic;
+  pos base [\uni0432 ] <anchor 238 539> mark @HalfMark
+	<anchor 488 536> mark @DoubleTitlo
+	<anchor 300 539> mark @Yerok
+	<anchor 236 539> mark @Diacritic;
+  pos base [\uni0433 ] <anchor 238 539> mark @HalfMark
+	<anchor 416 538> mark @DoubleTitlo
+	<anchor 250 539> mark @Yerok
+	<anchor 225 539> mark @Diacritic;
+  pos base [\uni0434 ] <anchor 238 539> mark @HalfMark
+	<anchor 434 538> mark @DoubleTitlo
+	<anchor 275 538> mark @Yerok
+	<anchor 227 538> mark @Diacritic;
   pos base [\uni0435 ] <anchor 176 539> mark @HalfMark
 	<anchor 332 538> mark @DoubleTitlo
 	<anchor 175 539> mark @Yerok
@@ -2922,7 +2966,7 @@ lookup markChurchSlavonicDiacritics {
 	<anchor 602 538> mark @DoubleTitlo
 	<anchor 425 538> mark @Yerok
 	<anchor 304 539> mark @Diacritic;
-  pos base [\uni0438 \uni043E \uni043F \uni0443 \uni04E9 \uni04AF \uni0443.alt ] <anchor 260 539> mark @HalfMark
+  pos base [\uni0438 ] <anchor 260 539> mark @HalfMark
 	<anchor 485 539> mark @DoubleTitlo
 	<anchor 300 539> mark @Yerok
 	<anchor 259 539> mark @Diacritic;
@@ -2946,6 +2990,14 @@ lookup markChurchSlavonicDiacritics {
 	<anchor 496 539> mark @DoubleTitlo
 	<anchor 325 539> mark @Yerok
 	<anchor 268 539> mark @Diacritic;
+  pos base [\uni043E \uni04E9 ] <anchor 260 539> mark @HalfMark
+	<anchor 481 538> mark @DoubleTitlo
+	<anchor 300 539> mark @Yerok
+	<anchor 259 539> mark @Diacritic;
+  pos base [\uni043F ] <anchor 260 539> mark @HalfMark
+	<anchor 510 536> mark @DoubleTitlo
+	<anchor 325 538> mark @Yerok
+	<anchor 261 538> mark @Diacritic;
   pos base [\uni0440 \uni0440.trunc ] <anchor 176 538> mark @HalfMark
 	<anchor 351 538> mark @DoubleTitlo
 	<anchor 175 538> mark @Yerok
@@ -2954,10 +3006,14 @@ lookup markChurchSlavonicDiacritics {
 	<anchor 318 538> mark @DoubleTitlo
 	<anchor 150 538> mark @Yerok
 	<anchor 153 538> mark @Diacritic;
-  pos base [\uni0442 \uni04A5 ] <anchor 342 539> mark @HalfMark
+  pos base [\uni0442 ] <anchor 342 539> mark @HalfMark
 	<anchor 661 538> mark @DoubleTitlo
 	<anchor 475 538> mark @Yerok
 	<anchor 342 538> mark @Diacritic;
+  pos base [\uni0443 \uni0443.alt ] <anchor 260 539> mark @HalfMark
+	<anchor 545 539> mark @DoubleTitlo
+	<anchor 375 538> mark @Yerok
+	<anchor 259 539> mark @Diacritic;
   pos base [\uni0444 \uni0444.trunc1 \uni0444.trunc2 ] <anchor 350 539> mark @HalfMark
 	<anchor 712 627> mark @DoubleTitlo
 	<anchor 500 538> mark @Yerok
@@ -2970,6 +3026,10 @@ lookup markChurchSlavonicDiacritics {
 	<anchor 548 539> mark @DoubleTitlo
 	<anchor 375 538> mark @Yerok
 	<anchor 270 539> mark @Diacritic;
+  pos base [\uni0447 ] <anchor 238 539> mark @HalfMark
+	<anchor 452 539> mark @DoubleTitlo
+	<anchor 275 538> mark @Yerok
+	<anchor 221 538> mark @Diacritic;
   pos base [\uni0448 ] <anchor 436 539> mark @HalfMark
 	<anchor 860 538> mark @DoubleTitlo
 	<anchor 675 538> mark @Yerok
@@ -2982,10 +3042,14 @@ lookup markChurchSlavonicDiacritics {
 	<anchor 469 539> mark @DoubleTitlo
 	<anchor 325 539> mark @Yerok
 	<anchor 242 539> mark @Diacritic;
-  pos base [\uni044B \uni1C83 ] <anchor 336 539> mark @HalfMark
+  pos base [\uni044B ] <anchor 336 539> mark @HalfMark
 	<anchor 667 539> mark @DoubleTitlo
 	<anchor 500 538> mark @Yerok
 	<anchor 336 539> mark @Diacritic;
+  pos base [\uni044C ] <anchor 238 539> mark @HalfMark
+	<anchor 440 539> mark @DoubleTitlo
+	<anchor 275 539> mark @Yerok
+	<anchor 155 538> mark @Diacritic;
   pos base [\uni044D ] <anchor 320 539> mark @HalfMark
 	<anchor 603 539> mark @DoubleTitlo
 	<anchor 400 538> mark @Yerok
@@ -2994,7 +3058,7 @@ lookup markChurchSlavonicDiacritics {
 	<anchor 551 540> mark @DoubleTitlo
 	<anchor 350 539> mark @Yerok
 	<anchor 330 539> mark @Diacritic;
-  pos base [\uni0454 \uniA657 ] <anchor 296 539> mark @HalfMark
+  pos base [\uni0454 ] <anchor 296 539> mark @HalfMark
 	<anchor 603 539> mark @DoubleTitlo
 	<anchor 400 538> mark @Yerok
 	<anchor 336 539> mark @Diacritic;
@@ -3022,6 +3086,10 @@ lookup markChurchSlavonicDiacritics {
 	<anchor 656 539> mark @DoubleTitlo
 	<anchor 300 538> mark @Yerok
 	<anchor 251 538> mark @Diacritic;
+  pos base [\uni0460 ] <anchor 486 830> mark @HalfMark
+	<anchor 938 827> mark @DoubleTitlo
+	<anchor 725 828> mark @Yerok
+	<anchor 507 829> mark @Diacritic;
   pos base [\uni0461 ] <anchor 380 539> mark @HalfMark
 	<anchor 760 539> mark @DoubleTitlo
 	<anchor 550 539> mark @Yerok
@@ -3030,10 +3098,18 @@ lookup markChurchSlavonicDiacritics {
 	<anchor 840 832> mark @DoubleTitlo
 	<anchor 600 828> mark @Yerok
 	<anchor 385 830> mark @Diacritic;
-  pos base [\uni0463 \uni1C85 ] <anchor 342 539> mark @HalfMark
+  pos base [\uni0463 ] <anchor 342 539> mark @HalfMark
 	<anchor 660 673> mark @DoubleTitlo
 	<anchor 510 539> mark @Yerok
 	<anchor 360 830> mark @Diacritic;
+  pos base [\uni0464 ] <anchor 486 829> mark @HalfMark
+	<anchor 938 825> mark @DoubleTitlo
+	<anchor 721 828> mark @Yerok
+	<anchor 608 829> mark @Diacritic;
+  pos base [\uni0465 ] <anchor 238 539> mark @HalfMark
+	<anchor 540 539> mark @DoubleTitlo
+	<anchor 400 539> mark @Yerok
+	<anchor 409 539> mark @Diacritic;
   pos base [\uni0466 ] <anchor 434 830> mark @HalfMark
 	<anchor 888 828> mark @DoubleTitlo
 	<anchor 675 828> mark @Yerok
@@ -3070,6 +3146,10 @@ lookup markChurchSlavonicDiacritics {
 	<anchor 698 830> mark @DoubleTitlo
 	<anchor 500 828> mark @Yerok
 	<anchor 328 829> mark @Diacritic;
+  pos base [\uni046F ] <anchor 238 539> mark @HalfMark
+	<anchor 471 625> mark @DoubleTitlo
+	<anchor 300 625> mark @Yerok
+	<anchor 241 629> mark @Diacritic;
   pos base [\uni0470 \uni0470.alt ] <anchor 464 829> mark @HalfMark
 	<anchor 884 1206> mark @DoubleTitlo
 	<anchor 750 841> mark @Yerok
@@ -3078,6 +3158,10 @@ lookup markChurchSlavonicDiacritics {
 	<anchor 708 626> mark @DoubleTitlo
 	<anchor 550 539> mark @Yerok
 	<anchor 345 727> mark @Diacritic;
+  pos base [\uni0472 ] <anchor 486 829> mark @HalfMark
+	<anchor 858 828> mark @DoubleTitlo
+	<anchor 600 800> mark @Yerok
+	<anchor 450 829> mark @Diacritic;
   pos base [\uni0473 ] <anchor 366 538> mark @HalfMark
 	<anchor 753 537> mark @DoubleTitlo
 	<anchor 550 500> mark @Yerok
@@ -3086,10 +3170,18 @@ lookup markChurchSlavonicDiacritics {
 	<anchor 678 838> mark @DoubleTitlo
 	<anchor 494 828> mark @Yerok
 	<anchor 341 829> mark @Diacritic;
+  pos base [\uni0475 \uni04750327 \uni04AF ] <anchor 238 539> mark @HalfMark
+	<anchor 519 539> mark @DoubleTitlo
+	<anchor 375 500> mark @Yerok
+	<anchor 259 539> mark @Diacritic;
   pos base [\uni0476 ] <anchor 326 828> mark @HalfMark
 	<anchor 677 1121> mark @DoubleTitlo
 	<anchor 494 828> mark @Yerok
 	<anchor 271 1040> mark @Diacritic;
+  pos base [\uni0477 ] <anchor 238 539> mark @HalfMark
+	<anchor 519 715> mark @DoubleTitlo
+	<anchor 258 715> mark @Yerok
+	<anchor 260 717> mark @Diacritic;
   pos base [\uni0478 ] <anchor 798 541> mark @HalfMark
 	<anchor 1104 541> mark @DoubleTitlo
 	<anchor 950 540> mark @Yerok
@@ -3098,7 +3190,7 @@ lookup markChurchSlavonicDiacritics {
 	<anchor 824 542> mark @DoubleTitlo
 	<anchor 675 539> mark @Yerok
 	<anchor 551 539> mark @Diacritic;
-  pos base [\uni047A \uniA66A ] <anchor 419 829> mark @HalfMark
+  pos base [\uni047A ] <anchor 419 829> mark @HalfMark
 	<anchor 838 853> mark @DoubleTitlo
 	<anchor 675 828> mark @Yerok
 	<anchor 420 872> mark @Diacritic;
@@ -3106,7 +3198,11 @@ lookup markChurchSlavonicDiacritics {
 	<anchor 785 539> mark @DoubleTitlo
 	<anchor 600 500> mark @Yerok
 	<anchor 399 539> mark @Diacritic;
-  pos base [\uni047D \uniA66D \uniA667 ] <anchor 410 539> mark @HalfMark
+  pos base [\uni047C ] <anchor 486 829> mark @HalfMark
+	<anchor 949 1118> mark @DoubleTitlo
+	<anchor 459 1105> mark @Yerok
+	<anchor 459 1104> mark @Diacritic;
+  pos base [\uni047D ] <anchor 410 539> mark @HalfMark
 	<anchor 876 826> mark @DoubleTitlo
 	<anchor 422 799> mark @Yerok
 	<anchor 423 801> mark @Diacritic;
@@ -3114,7 +3210,7 @@ lookup markChurchSlavonicDiacritics {
 	<anchor 1082 1046> mark @DoubleTitlo
 	<anchor 543 1042> mark @Yerok
 	<anchor 543 1042> mark @Diacritic;
-  pos base [\uni047F \uniA69B ] <anchor 392 539> mark @HalfMark
+  pos base [\uni047F ] <anchor 392 539> mark @HalfMark
 	<anchor 783 763> mark @DoubleTitlo
 	<anchor 394 755> mark @Yerok
 	<anchor 394 757> mark @Diacritic;
@@ -3130,10 +3226,26 @@ lookup markChurchSlavonicDiacritics {
 	<anchor 416 539> mark @DoubleTitlo
 	<anchor 358 537> mark @Yerok
 	<anchor 274 539> mark @Diacritic;
+  pos base [\uniA64B \uniA64B.short3 ] <anchor 238 539> mark @HalfMark
+	<anchor 464 1074> mark @DoubleTitlo
+	<anchor 240 829> mark @Yerok
+	<anchor 240 830> mark @Diacritic;
+  pos base [\uniA64C ] <anchor 486 829> mark @HalfMark
+	<anchor 949 830> mark @DoubleTitlo
+	<anchor 750 828> mark @Yerok
+	<anchor 471 829> mark @Diacritic;
   pos base [\uniA64D ] <anchor 420 540> mark @HalfMark
 	<anchor 876 539> mark @DoubleTitlo
 	<anchor 650 500> mark @Yerok
 	<anchor 420 539> mark @Diacritic;
+  pos base [\uniA656 ] <anchor 486 829> mark @HalfMark
+	<anchor 948 831> mark @DoubleTitlo
+	<anchor 750 828> mark @Yerok
+	<anchor 449 828> mark @Diacritic;
+  pos base [\uniA657 ] <anchor 296 539> mark @HalfMark
+	<anchor 639 541> mark @DoubleTitlo
+	<anchor 450 500> mark @Yerok
+	<anchor 410 538> mark @Diacritic;
   pos base [\uniA668 ] <anchor 420 829> mark @HalfMark
 	<anchor 844 830> mark @DoubleTitlo
 	<anchor 650 828> mark @Yerok
@@ -3142,6 +3254,10 @@ lookup markChurchSlavonicDiacritics {
 	<anchor 470 538> mark @DoubleTitlo
 	<anchor 325 500> mark @Yerok
 	<anchor 251 539> mark @Diacritic;
+  pos base [\uniA66A ] <anchor 419 829> mark @HalfMark
+	<anchor 832 857> mark @DoubleTitlo
+	<anchor 675 800> mark @Yerok
+	<anchor 420 882> mark @Diacritic;
   pos base [\uniA66B ] <anchor 390 539> mark @HalfMark
 	<anchor 766 540> mark @DoubleTitlo
 	<anchor 600 500> mark @Yerok
@@ -3150,6 +3266,10 @@ lookup markChurchSlavonicDiacritics {
 	<anchor 1142 827> mark @DoubleTitlo
 	<anchor 968 825> mark @Yerok
 	<anchor 596 829> mark @Diacritic;
+  pos base [\uniA66D ] <anchor 410 539> mark @HalfMark
+	<anchor 779 540> mark @DoubleTitlo
+	<anchor 625 500> mark @Yerok
+	<anchor 412 539> mark @Diacritic;
   pos base [\uniA66E ] <anchor 502 830> mark @HalfMark
 	<anchor 952 894> mark @DoubleTitlo
 	<anchor 504 866> mark @Yerok
@@ -3166,6 +3286,10 @@ lookup markChurchSlavonicDiacritics {
 	<anchor 810 829> mark @DoubleTitlo
 	<anchor 650 800> mark @Yerok
 	<anchor 408 830> mark @Diacritic;
+  pos base [\uniA69B ] <anchor 392 539> mark @HalfMark
+	<anchor 774 539> mark @DoubleTitlo
+	<anchor 625 500> mark @Yerok
+	<anchor 394 539> mark @Diacritic;
   pos base [\u1F541 \u1F541.bmp ] <anchor 800 800> mark @DoubleTitlo
 	<anchor 404 799> mark @HalfMark
 	<anchor 628 706> mark @Yerok
@@ -3182,10 +3306,22 @@ lookup markChurchSlavonicDiacritics {
 	<anchor 485 539> mark @DoubleTitlo
 	<anchor 241 829> mark @Yerok
 	<anchor 241 828> mark @Diacritic;
+  pos base [\uni1C85 ] <anchor 342 539> mark @HalfMark
+	<anchor 662 539> mark @DoubleTitlo
+	<anchor 500 538> mark @Yerok
+	<anchor 344 538> mark @Diacritic;
+  pos base [\uni1C81 ] <anchor 238 539> mark @HalfMark
+	<anchor 454 539> mark @DoubleTitlo
+	<anchor 300 538> mark @Yerok
+	<anchor 241 539> mark @Diacritic;
   pos base [\uni1C82 ] <anchor 140 539> mark @HalfMark
 	<anchor 292 536> mark @DoubleTitlo
 	<anchor 125 500> mark @Yerok
 	<anchor 139 539> mark @Diacritic;
+  pos base [\uni1C83 ] <anchor 336 539> mark @HalfMark
+	<anchor 663 538> mark @DoubleTitlo
+	<anchor 500 500> mark @Yerok
+	<anchor 354 539> mark @Diacritic;
   pos base [\uni1C84 ] <anchor 174 538> mark @HalfMark
 	<anchor 290 878> mark @DoubleTitlo
 	<anchor 229 828> mark @Yerok
@@ -3206,7 +3342,7 @@ lookup markChurchSlavonicDiacritics {
 	<anchor 176 702> mark @DoubleTitlo
 	<anchor 80 694> mark @Yerok
 	<anchor 79 694> mark @Diacritic;
-  pos base [\uni0423 \uni0423.var ] <anchor 365 829> mark @Diacritic
+  pos base [\uni0423 ] <anchor 365 829> mark @Diacritic
 	<anchor 550 828> mark @Yerok
 	<anchor 667 828> mark @DoubleTitlo
 	<anchor 363 829> mark @HalfMark;
@@ -3214,10 +3350,18 @@ lookup markChurchSlavonicDiacritics {
 	<anchor 544 828> mark @DoubleTitlo
 	<anchor 400 829> mark @Yerok
 	<anchor 298 828> mark @Diacritic;
+  pos base [\uniA64B.short ] <anchor 238 539> mark @HalfMark
+	<anchor 465 1014> mark @DoubleTitlo
+	<anchor 190 729> mark @Yerok
+	<anchor 190 729> mark @Diacritic;
   pos base [\uni04A4 ] <anchor 450 829> mark @HalfMark
 	<anchor 790 837> mark @DoubleTitlo
 	<anchor 450 831> mark @Yerok
 	<anchor 331 830> mark @Diacritic;
+  pos base [\uni04A5 ] <anchor 342 539> mark @HalfMark
+	<anchor 674 542> mark @DoubleTitlo
+	<anchor 350 500> mark @Yerok
+	<anchor 252 538> mark @Diacritic;
   pos base [\uniA65E ] <anchor 361 829> mark @HalfMark
 	<anchor 736 839> mark @DoubleTitlo
 	<anchor 494 828> mark @Yerok
@@ -3230,14 +3374,30 @@ lookup markChurchSlavonicDiacritics {
 	<anchor 806 831> mark @DoubleTitlo
 	<anchor 474 830> mark @Yerok
 	<anchor 475 830> mark @Diacritic;
+  pos base [\uniA664 ] <anchor 486 829> mark @HalfMark
+	<anchor 790 832> mark @DoubleTitlo
+	<anchor 488 830> mark @Yerok
+	<anchor 487 830> mark @Diacritic;
   pos base [\uniA666 ] <anchor 583 829> mark @HalfMark
 	<anchor 1036 829> mark @DoubleTitlo
 	<anchor 700 828> mark @Yerok
 	<anchor 586 829> mark @Diacritic;
+  pos base [\uniA663 ] <anchor 238 539> mark @HalfMark
+	<anchor 515 539> mark @DoubleTitlo
+	<anchor 225 500> mark @Yerok
+	<anchor 248 539> mark @Diacritic;
   pos base [\uniA665 ] <anchor 288 539> mark @HalfMark
 	<anchor 577 539> mark @DoubleTitlo
 	<anchor 293 500> mark @Yerok
 	<anchor 293 538> mark @Diacritic;
+  pos base [\uniA667 ] <anchor 410 539> mark @HalfMark
+	<anchor 830 535> mark @DoubleTitlo
+	<anchor 525 500> mark @Yerok
+	<anchor 412 539> mark @Diacritic;
+  pos base [\uniA64B.short2 ] <anchor 238 539> mark @HalfMark
+	<anchor 465 703> mark @DoubleTitlo
+	<anchor 225 625> mark @Yerok
+	<anchor 253 686> mark @Diacritic;
   pos base [\uni0463.short ] <anchor 360 539> mark @HalfMark
 	<anchor 660 567> mark @DoubleTitlo
 	<anchor 485 500> mark @Diacritic
@@ -3274,6 +3434,10 @@ lookup markChurchSlavonicDiacritics {
 	<anchor 550 539> mark @Yerok
 	<anchor 708 626> mark @DoubleTitlo
 	<anchor 346 800> mark @HalfMark;
+  pos base [\uni0423.var ] <anchor 363 829> mark @HalfMark
+	<anchor 714 830> mark @DoubleTitlo
+	<anchor 550 828> mark @Yerok
+	<anchor 365 829> mark @Diacritic;
   pos base [\uni040E.var ] <anchor 383 1071> mark @Diacritic
 	<anchor 626 829> mark @Yerok
 	<anchor 714 830> mark @DoubleTitlo
@@ -3300,8 +3464,10 @@ lookup markLeftandRightMarks {
   markClass [\uniEF05 \uni1DF7 ] <anchor -356 627> @left;
   pos base [\uni003A \uni003B ] <anchor 22 509> mark @left
 	<anchor 275 512> mark @right;
-  pos base [\uni0430 \uni0431 \uni0432 \uni0433 \uni0434 \uni043B ] <anchor 368 536> mark @right
+  pos base [\uni0430 ] <anchor 368 536> mark @right
 	<anchor 67 536> mark @left;
+  pos base [\uni0431 \uni0432 \uni0433 \uni0434 \uni043B ] <anchor 67 536> mark @left
+	<anchor 369 536> mark @right;
   pos base [\uni0435 ] <anchor 28 536> mark @left
 	<anchor 330 537> mark @right;
   pos base [\uni0436 ] <anchor 245 537> mark @left
@@ -3362,7 +3528,7 @@ lookup markLeftandRightMarks {
 	<anchor 76 536> mark @left;
   pos base [\uni045B ] <anchor 594 538> mark @right
 	<anchor 60 536> mark @left;
-  pos base [\uni045C \uni045E \uni045F \uniA669 \uniA66D \uniA69B \uniA663 ] <anchor 446 538> mark @right
+  pos base [\uni045C \uni045E \uni045F \uniA663 ] <anchor 446 538> mark @right
 	<anchor 80 537> mark @left;
   pos base [\uni045D ] <anchor 44 541> mark @left
 	<anchor 410 542> mark @right;
@@ -3404,10 +3570,16 @@ lookup markLeftandRightMarks {
 	<anchor 201 532> mark @left;
   pos base [\uniA657 ] <anchor 491 536> mark @right
 	<anchor 117 536> mark @left;
+  pos base [\uniA669 ] <anchor 80 537> mark @left
+	<anchor 385 538> mark @right;
   pos base [\uniA66B ] <anchor 124 537> mark @left
 	<anchor 674 538> mark @right;
+  pos base [\uniA66D ] <anchor 80 537> mark @left
+	<anchor 692 538> mark @right;
   pos base [\uniA699 ] <anchor 98 537> mark @left
 	<anchor 686 538> mark @right;
+  pos base [\uniA69B ] <anchor 80 537> mark @left
+	<anchor 678 538> mark @right;
   pos base [\uni1C82 ] <anchor 292 536> mark @right
 	<anchor 27 537> mark @left;
   pos base [\uni1C83 ] <anchor 569 536> mark @right
@@ -3481,7 +3653,7 @@ lookup kernContextualDiacriticKerning {
 	\uni2DE9 \uni2DEA \uni2DEB \uni2DEC \uni2DED \uni2DEE \uni2DEF \uni2DF0 
 	\uni2DF1 \uni2DF2 \uni2DF3 \uni2DF4 \uni2DF5 \uni2DF6 \uni2DF7 \uni2DF9 
 	\uni2DFA \uni2DFB ];
-    pos @cc34_match_1' @cc34_match_2' @cc34_match_3'<150 0 0 0>;
+    pos @cc34_match_1' @cc34_match_2' @cc34_match_3' ;
 } kernContextualDiacriticKerning;
 
 lookup mkmkMarktoMarklookup9 {
