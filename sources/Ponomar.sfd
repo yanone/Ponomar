@@ -22,7 +22,7 @@ OS2Version: 2
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1187031600
-ModificationTime: 1726239423
+ModificationTime: 1734100286
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -1304,7 +1304,7 @@ NameList: Adobe Glyph List
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 288 18 7
+WinInfo: 0 18 7
 BeginPrivate: 9
 BlueValues 31 [-18 0 437 460 577 597 770 788]
 BlueScale 8 0.039625
@@ -1402,7 +1402,7 @@ EndChar
 StartChar: uni0020
 Encoding: 32 32 1
 GlifName: uni0020
-Width: 450
+Width: 300
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -2449,7 +2449,7 @@ EndChar
 StartChar: uni00A0
 Encoding: 160 160 35
 GlifName: uni00A_0
-Width: 450
+Width: 300
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -16273,7 +16273,7 @@ EndChar
 StartChar: uni202F
 Encoding: 8239 8239 286
 GlifName: uni202F_
-Width: 225
+Width: 150
 Flags: W
 LayerCount: 2
 Colour: ff00
@@ -22156,7 +22156,7 @@ EndChar
 StartChar: uni000D
 Encoding: 13 13 413
 GlifName: uni000D_
-Width: 450
+Width: 300
 Flags: W
 LayerCount: 2
 EndChar
@@ -29228,7 +29228,7 @@ EndChar
 StartChar: uni2000
 Encoding: 8192 8192 522
 GlifName: uni2000
-Width: 220
+Width: 147
 Flags: W
 LayerCount: 2
 EndChar
@@ -29236,7 +29236,7 @@ EndChar
 StartChar: uni2001
 Encoding: 8193 8193 523
 GlifName: uni2001
-Width: 450
+Width: 300
 Flags: W
 LayerCount: 2
 EndChar
@@ -29244,7 +29244,7 @@ EndChar
 StartChar: uni2002
 Encoding: 8194 8194 524
 GlifName: uni2002
-Width: 220
+Width: 147
 Flags: W
 LayerCount: 2
 EndChar
@@ -29252,7 +29252,7 @@ EndChar
 StartChar: uni2003
 Encoding: 8195 8195 525
 GlifName: uni2003
-Width: 450
+Width: 300
 Flags: W
 LayerCount: 2
 EndChar
@@ -29260,7 +29260,7 @@ EndChar
 StartChar: uni2004
 Encoding: 8196 8196 526
 GlifName: uni2004
-Width: 150
+Width: 100
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -29269,7 +29269,7 @@ EndChar
 StartChar: uni2005
 Encoding: 8197 8197 527
 GlifName: uni2005
-Width: 113
+Width: 75
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -29278,7 +29278,7 @@ EndChar
 StartChar: uni2006
 Encoding: 8198 8198 528
 GlifName: uni2006
-Width: 75
+Width: 50
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -29287,7 +29287,7 @@ EndChar
 StartChar: uni2007
 Encoding: 8199 8199 529
 GlifName: uni2007
-Width: 470
+Width: 313
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -29296,7 +29296,7 @@ EndChar
 StartChar: uni2008
 Encoding: 8200 8200 530
 GlifName: uni2008
-Width: 216
+Width: 144
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -29305,7 +29305,7 @@ EndChar
 StartChar: uni2009
 Encoding: 8201 8201 531
 GlifName: uni2009
-Width: 90
+Width: 60
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -29314,7 +29314,7 @@ EndChar
 StartChar: uni200A
 Encoding: 8202 8202 532
 GlifName: uni200A_
-Width: 76
+Width: 51
 Flags: W
 LayerCount: 2
 EndChar
