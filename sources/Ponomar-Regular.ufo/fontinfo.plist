@@ -32,12 +32,8 @@
     <integer>-460</integer>
     <key>openTypeHheaLineGap</key>
     <integer>0</integer>
-    <key>openTypeNameLicense</key>
-    <string>This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL</string>
-    <key>openTypeNameLicenseURL</key>
-    <string>https://scripts.sil.org/OFL</string>
     <key>openTypeNameVersion</key>
-    <string>1.3</string>
+    <string>Version 1.302</string>
     <key>openTypeNameSampleText</key>
     <string>Хрⷭ҇то́съ воскре́се и҆з̾ ме́ртвыхъ, сме́ртїю сме́рть попра́въ, и҆ сꙋ́щымъ во гробѣ́хъ живо́тъ дарова́въ.</string>
     <key>openTypeOS2Panose</key>

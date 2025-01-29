@@ -22,7 +22,7 @@ OS2Version: 2
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1187031600
-ModificationTime: 1738143888
+ModificationTime: 1738158788
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -1294,7 +1294,7 @@ ShortTable: cvt  55
   83
   5
 EndShort
-LangName: 1033 "" "" "" "" "" "1.3" "" "" "" "" "" "" "" "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL" "https://scripts.sil.org/OFL" "" "" "" "" "+BCUEQC3tBIcEQgQ+AwEEQQRK +BDIEPgRBBDoEQAQ1AwEEQQQ1 +BDgEhgQ3Az4A +BDwENQMBBEAEQgQyBEsERQRK, +BEEEPAQ1AwEEQARCBFYDCARO +BEEEPAQ1AwEEQARCBEwA +BD8EPgQ/BEAEMAMBBDIESgAA, +BDgEhgAA +BEGmSwMBBEkESwQ8BEoA +BDIEPgAA +BDMEQAQ+BDEEYwMBBEUESgAA +BDYEOAQyBD4DAQRCBEoA +BDQEMARABD4EMgQwAwEEMgRK."
+LangName: 1033 "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "+BCUEQC3tBIcEQgQ+AwEEQQRK +BDIEPgRBBDoEQAQ1AwEEQQQ1 +BDgEhgQ3Az4A +BDwENQMBBEAEQgQyBEsERQRK, +BEEEPAQ1AwEEQARCBFYDCARO +BEEEPAQ1AwEEQARCBEwA +BD8EPgQ/BEAEMAMBBDIESgAA, +BDgEhgAA +BEGmSwMBBEkESwQ8BEoA +BDIEPgAA +BDMEQAQ+BDEEYwMBBEUESgAA +BDYEOAQyBD4DAQRCBEoA +BDQEMARABD4EMgQwAwEEMgRK."
 GaspTable: 3 8 10 16 9 65535 15 1
 OtfFeatName: 'ss02' 1033 "Latin blackletter shapes"
 Encoding: UnicodeFull
