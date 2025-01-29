@@ -13,9 +13,9 @@
     <key>versionMajor</key>
     <integer>1</integer>
     <key>versionMinor</key>
-    <integer>301</integer>
+    <integer>302</integer>
     <key>copyright</key>
-    <string>Copyright 2013-2024 The Ponomar Project Authors (https://github.com/slavonic/ponomar)</string>
+    <string>Copyright 2025 The Ponomar Project Authors (https://github.com/slavonic/ponomar)</string>
     <key>unitsPerEm</key>
     <integer>1000</integer>
     <key>ascender</key>
@@ -32,12 +32,8 @@
     <integer>-460</integer>
     <key>openTypeHheaLineGap</key>
     <integer>0</integer>
-    <key>openTypeNameLicense</key>
-    <string>This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL</string>
-    <key>openTypeNameLicenseURL</key>
-    <string>https://scripts.sil.org/OFL</string>
     <key>openTypeNameVersion</key>
-    <string>Version 1.301</string>
+    <string>Version 1.302</string>
     <key>openTypeNameSampleText</key>
     <string>Хрⷭ҇то́съ воскре́се и҆з̾ ме́ртвыхъ, сме́ртїю сме́рть попра́въ, и҆ сꙋ́щымъ во гробѣ́хъ живо́тъ дарова́въ.</string>
     <key>openTypeOS2Panose</key>

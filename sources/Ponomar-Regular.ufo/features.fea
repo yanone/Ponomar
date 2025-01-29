@@ -364,7 +364,7 @@ lookup Psitruncationfromright {
 	\divide \oslash \ugrave \uacute \ucircumflex \udieresis \yacute 
 	\ydieresis \dotlessi \OE \oe \circumflex \ring \tilde 
 	\guilsinglleft \guilsinglright \fraction \uni2074 \uni2215 
-	\minus \uni0470.alt ];
+	\minus \uni0470.alt \uni0481 \uni0480 \uniA643 \uniA642 ];
     @cc10_ahead_1 = [\uni0470 ];
     @cc10_ahead_2 = [\uni2DE0 \uni2DE1 \uni2DE2 \uni2DE3 \uni2DE4 \uni2DE5 \uni2DE6 \uni2DE7 \uni2DE8 
 	\uni2DE9 \uni2DEA \uni2DEB \uni2DEC \uni2DED \uni2DEE \uni2DEF \uni2DF0 
@@ -2707,6 +2707,7 @@ lookup markSlavonicnumerals {
   pos base [\uniEF09 \uniEF0A \u1F908 \u1F909 \u1F90A \u1F90B ] <anchor 228 396> mark @Numeral;
   pos base [\uni0495 ] <anchor 207 217> mark @Numeral;
   pos base [\uni052B ] <anchor 495 224> mark @Numeral;
+  pos base [\uni0481 ] <anchor 243 231> mark @Numeral;
 } markSlavonicnumerals;
 
 lookup markChurchSlavonicDiacritics {
@@ -3218,11 +3219,11 @@ lookup markChurchSlavonicDiacritics {
 	<anchor 524 540> mark @DoubleTitlo
 	<anchor 375 525> mark @Yerok
 	<anchor 263 539> mark @Diacritic;
-  pos base [\uniA640 ] <anchor 295 829> mark @HalfMark
+  pos base [\uniA640 \uniA642 ] <anchor 295 829> mark @HalfMark
 	<anchor 590 830> mark @DoubleTitlo
 	<anchor 450 828> mark @Yerok
 	<anchor 294 828> mark @Diacritic;
-  pos base [\uniA641 \uniA641.trunc ] <anchor 272 539> mark @HalfMark
+  pos base [\uniA641 \uniA641.trunc \uniA643 ] <anchor 272 539> mark @HalfMark
 	<anchor 416 539> mark @DoubleTitlo
 	<anchor 358 537> mark @Yerok
 	<anchor 274 539> mark @Diacritic;
@@ -3270,10 +3271,10 @@ lookup markChurchSlavonicDiacritics {
 	<anchor 779 540> mark @DoubleTitlo
 	<anchor 625 500> mark @Yerok
 	<anchor 412 539> mark @Diacritic;
-  pos base [\uniA66E ] <anchor 502 830> mark @HalfMark
-	<anchor 952 894> mark @DoubleTitlo
-	<anchor 504 866> mark @Yerok
-	<anchor 503 865> mark @Diacritic;
+  pos base [\uniA66E ] <anchor 759 830> mark @HalfMark
+	<anchor 1243 894> mark @DoubleTitlo
+	<anchor 621 866> mark @Yerok
+	<anchor 620 865> mark @Diacritic;
   pos base [\uniA698 ] <anchor 589 829> mark @HalfMark
 	<anchor 1136 825> mark @DoubleTitlo
 	<anchor 955 828> mark @Yerok
@@ -3454,6 +3455,14 @@ lookup markChurchSlavonicDiacritics {
 	<anchor 963 828> mark @Yerok
 	<anchor 1084 827> mark @DoubleTitlo
 	<anchor 541 830> mark @HalfMark;
+  pos base [\uni0481 ] <anchor 221 538> mark @Diacritic
+	<anchor 275 538> mark @Yerok
+	<anchor 438 539> mark @DoubleTitlo
+	<anchor 238 539> mark @HalfMark;
+  pos base [\uni0480 ] <anchor 326 830> mark @Diacritic
+	<anchor 461 828> mark @Yerok
+	<anchor 578 830> mark @DoubleTitlo
+	<anchor 338 830> mark @HalfMark;
 } markChurchSlavonicDiacritics;
 
 lookup markLeftandRightMarks {
@@ -3562,7 +3571,7 @@ lookup markLeftandRightMarks {
 	<anchor 334 612> mark @right;
   pos base [\uni25CC ] <anchor 102 524> mark @left
 	<anchor 378 524> mark @right;
-  pos base [\uniA641 \uniA641.trunc ] <anchor 408 536> mark @right
+  pos base [\uniA641 \uniA641.trunc \uniA643 ] <anchor 408 536> mark @right
 	<anchor 114 536> mark @left;
   pos base [\uniA64B \uniA64B.short3 ] <anchor 455 1072> mark @right
 	<anchor 81 1072> mark @left;
@@ -3604,6 +3613,8 @@ lookup markLeftandRightMarks {
 	<anchor 355 594> mark @right;
   pos base [\uni0458.var ] <anchor 381 547> mark @right
 	<anchor 113 547> mark @left;
+  pos base [\uni0481 ] <anchor 113 536> mark @left
+	<anchor 341 536> mark @right;
 } markLeftandRightMarks;
 
 lookup markCyrillicMarksBelow {
@@ -4028,7 +4039,7 @@ feature mkmk {
 	\ae \igrave \iacute \icircumflex \eth \ograve \oacute \otilde \divide \oslash 
 	\ugrave \uacute \ucircumflex \udieresis \yacute \ydieresis \dotlessi \OE \oe 
 	\circumflex \ring \tilde \guilsinglleft \guilsinglright \fraction \uni2074 
-	\uni2215 \minus \uni0470.alt ];
+	\uni2215 \minus \uni0470.alt \uni0481 \uni0480 \uniA643 \uniA642 ];
 @GDEF_Ligature = [\uni0478 \uni0479 \uniA64B0311 \uni0430200D0443 
 	\uni043B200D0443 \uni0442200D0432 \uni00660074 \uni00740074 \uni00660069 
 	\uni00660066 \uni0066006a \uni00660062 \uni00540068 \uni0066006c \uni00C0 
