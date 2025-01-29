@@ -3270,10 +3270,10 @@ lookup markChurchSlavonicDiacritics {
 	<anchor 779 540> mark @DoubleTitlo
 	<anchor 625 500> mark @Yerok
 	<anchor 412 539> mark @Diacritic;
-  pos base [\uniA66E ] <anchor 502 830> mark @HalfMark
-	<anchor 952 894> mark @DoubleTitlo
-	<anchor 504 866> mark @Yerok
-	<anchor 503 865> mark @Diacritic;
+  pos base [\uniA66E ] <anchor 759 830> mark @HalfMark
+	<anchor 1243 894> mark @DoubleTitlo
+	<anchor 621 866> mark @Yerok
+	<anchor 620 865> mark @Diacritic;
   pos base [\uniA698 ] <anchor 589 829> mark @HalfMark
 	<anchor 1136 825> mark @DoubleTitlo
 	<anchor 955 828> mark @Yerok
